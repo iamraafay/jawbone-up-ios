@@ -170,13 +170,19 @@ _token=<your auth token>
                                response:(void (^)(AFHTTPRequestOperation *operation, id responseObject))success
                                 failure:(void (^)(AFHTTPRequestOperation *operation, NSError *error))failure {
     
-    NSString *path = [NSString stringWithFormat:@"nudge/api/users/%@/healthCredits", user];
+    NSString *path = [NSString stringWithFormat:@"nudge/api/users/%@/band", user];
     NSString *token = [[MakesYouUP sharedInstance] userToken];
     long epochStartDate = (long)[startDate timeIntervalSince1970];
     long epochEndDate = (long)[endDate timeIntervalSince1970];
+    NSString *sinceDate = [NSString stringWithFormat:@"%ld", epochStartDate];
+    NSString *untilDate = [NSString stringWithFormat:@"%ld", epochEndDate];
+    
+    NSDictionary *param = @{@"start_time": sinceDate,
+                            @"end_time": untilDate,
+                            @"_token":token};
     
     [[MUPAPIClient sharedClient] getPath:path
-                              parameters:@{@"start_time": [NSString stringWithFormat:@"%ld", epochStartDate], @"end_time": [NSString stringWithFormat:@"%ld", epochEndDate], @"_token":token}
+                              parameters:param
                                  success:^(AFHTTPRequestOperation *operation, id responseObject) {
                                      success(operation, responseObject);
                                  }

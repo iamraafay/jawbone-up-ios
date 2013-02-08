@@ -1,4 +1,4 @@
-jawbone-up-ios
+Jawbone Up iOS
 ==============
 
-Jawbone's UP API for iOS
+This library for iOS gives handy access to unofficial APIs of Jawbone's UP. 

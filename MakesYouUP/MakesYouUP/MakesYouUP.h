@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "MUPAPIClient.h"
-
+@class DailySummary;
 @interface MakesYouUP : NSObject
 
 + (void)signWithUsername:(NSString *)userName
@@ -24,8 +24,8 @@
 
 + (void)dailySummaryForDate:(NSString *)date
                     forUser:(NSString *)user
-                   response:(void (^)(AFHTTPRequestOperation *operation, id responseObject))success
-                    failure:(void (^)(AFHTTPRequestOperation *operation, NSError *error))failure;
+                   response:(void (^)(DailySummary *dailySummary))success
+                    failure:(void (^)(NSError *error))failure;
 
 + (void)detailedUserActivityDataForUser:(NSString *)user
                           fromStartDate:(NSDate *)startDate

@@ -10,6 +10,7 @@
 #import "MakesYouUP.h"
 
 #import "SocialFeed.h"
+#import "DailySummary.h"
 
 @interface MUPAPITest : GHAsyncTestCase
 
@@ -130,12 +131,80 @@ static NSString * const kMUPOwnerID = @"@me";
 - (void)testUserDailySummary {
     [super prepare];
     
-    [MakesYouUP dailySummaryForDate:@"2013-2-4"
+    
+    [MakesYouUP dailySummaryForDate:@"2013-2-12"
                             forUser:kMUPOwnerID
-                           response:^(AFHTTPRequestOperation *operation, id responseObject) {
+                           response:^(DailySummary *dailySummary) {
+                               
+                               NSLog(@"DailySummary =    \n \
+                                     Date:%@             \n \
+                                     Eat:%@              \n \
+                                     Eat Goal:%@         \n \
+                                     Eat Percentage: %@  \n \
+                                     Eat Summary: %@     \n \
+                                     Meal Photos:%@      \n \
+                                     Meal XID:%@         \n \
+                                     Move: %@            \n \
+                                     move_goal: %@       \n \
+                                     move_kilometers: %@ \n \
+                                     move_percent: %@    \n \
+                                     move_seconds: %@    \n \
+                                     move_steps: %@      \n \
+                                     move_summary: %@    \n \
+                                        move_calaries:%@ \n \
+                                        move_kilo:%@     \n \
+                                        move_second:%@   \n \
+                                        move_step:%@     \n \
+                                        workout:%@       \n \
+                                     sleep: %@           \n \
+                                     sleep_goal:%@       \n \
+                                     sleep_percent: %@   \n \
+                                     sleep_summary: %@   \n \
+                                        deep: %@         \n \
+                                        light:%@         \n \
+                                        sleeps:%@        \n \
+                                        total:%@         \n \
+                                     sleep_total: %@     \n \
+                                     total: %@           \n \
+                                     total_goal:%@       \n \
+                                     ",
+                                     dailySummary.date,
+                                     dailySummary.eat,
+                                     dailySummary.eat_goal,
+                                     dailySummary.eat_percent,
+                                     dailySummary.eat_summary.meals,
+                                     dailySummary.meal_photos,
+                                     dailySummary.meal_xids,
+                                     dailySummary.move,
+                                     dailySummary.move_goal,
+                                     dailySummary.move_kilometers,
+                                     dailySummary.move_percent,
+                                     dailySummary.move_seconds,
+                                     dailySummary.move_steps,
+                                     dailySummary.move_summary,
+                                     dailySummary.move_summary.move_calories,
+                                     dailySummary.move_summary.move_kilometers,
+                                     dailySummary.move_summary.move_seconds,
+                                     dailySummary.move_summary.move_steps,
+                                     dailySummary.move_summary.workouts,
+                                     dailySummary.sleep,
+                                     dailySummary.sleep_goal,
+                                     dailySummary.sleep_percent,
+                                     dailySummary.sleep_summary,
+                                     dailySummary.sleep_summary.deep,
+                                     dailySummary.sleep_summary.light,
+                                     dailySummary.sleep_summary.sleeps,
+                                     dailySummary.sleep_summary.total,
+                                     dailySummary.sleep_total,
+                                     dailySummary.total,
+                                     dailySummary.total_goal);
+                               
+                               
+                               NSLog(@"daily summery:%@", dailySummary);
                                [self notify:kGHUnitWaitStatusSuccess forSelector:_cmd];
+                               
                            }
-                            failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+                            failure:^(NSError *error) {
                                 [self notify:kGHUnitWaitStatusFailure forSelector:_cmd];
                             }];
     

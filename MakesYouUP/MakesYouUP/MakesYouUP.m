@@ -9,6 +9,7 @@
 #import "MakesYouUP.h"
 
 #import "SocialFeed.h"
+#import "DailySummary.h"
 
 @implementation MakesYouUP
 
@@ -126,8 +127,8 @@ _token=<your auth token>
 
 + (void)dailySummaryForDate:(NSString *)date
                     forUser:(NSString *)user
-                   response:(void (^)(AFHTTPRequestOperation *operation, id responseObject))success
-                    failure:(void (^)(AFHTTPRequestOperation *operation, NSError *error))failure {
+                   response:(void (^)(DailySummary *dailySummary))success
+                    failure:(void (^)(NSError *error))failure {
     
     
     NSTimeZone *theCurrentTimeZone = [NSTimeZone systemTimeZone];
@@ -136,7 +137,7 @@ _token=<your auth token>
     NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
     [dateFormatter setDateFormat:@"yyyy-M-d"];
     [dateFormatter setTimeZone:theCurrentTimeZone];
-//    NSString *date = [dateFormatter stringFromDate:[NSDate date]];
+    NSString *date = [dateFormatter stringFromDate:[NSDate date]];
     */
     
     NSDateFormatter *timeZoneFormatter = [[NSDateFormatter alloc] init];
@@ -144,22 +145,28 @@ _token=<your auth token>
     [timeZoneFormatter setTimeZone:theCurrentTimeZone];
     NSString *timeZone = [timeZoneFormatter stringFromDate:[NSDate date]];
     
-//    NSLog(@"date:%@ and timeZone:%@ formattedTimeZone:%@", date, theCurrentTimeZone, timeZone);
-    
-    
-    
     NSString *path = [NSString stringWithFormat:@"nudge/api/users/%@/healthCredits", user];
     NSString *token = [[MakesYouUP sharedInstance] userToken];
+    NSDictionary *param = @{@"date": date,
+                            @"timezone":timeZone,
+                            @"move_goal": @"0",
+                            @"sleep_goal":@"0",
+                            @"eat_goal":@"0",
+                            @"check_levels":@"100",
+                            @"_token":token};
     
     [[MUPAPIClient sharedClient] getPath:path
-                              parameters:@{@"date": date, @"timezone":timeZone, @"move_goal": @"0", @"sleep_goal":@"0", @"eat_goal":@"0", @"check_levels":@"1", @"_token":token}
+                              parameters:param
                                  success:^(AFHTTPRequestOperation *operation, id responseObject) {
+//                                     NSLog(@"ResponseObject:%@ \n \n \n \n", responseObject);
+                                     DailySummary *dailySummary = [[DailySummary alloc] initWithDailySummaryAttributes:[responseObject valueForKey:@"data"]];
                                      
-                                     success(operation, responseObject);
+                                     
+                                     success(dailySummary);
                                  }
                                  failure:^(AFHTTPRequestOperation *operation, NSError *error) {
                                      
-                                     failure(operation, error);
+                                     failure(error);
                                  }];
     
 }

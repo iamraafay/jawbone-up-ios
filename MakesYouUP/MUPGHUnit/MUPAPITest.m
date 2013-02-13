@@ -242,11 +242,36 @@ static NSString * const kMUPOwnerID = @"@me";
     
     [MakesYouUP sleepSummaryDataForUser:kMUPOwnerID
                           fromStartDate:yesterdayOfYesterday
-                            tillEndDate:yesterday
-                               response:^(AFHTTPRequestOperation *operation, id responseObject) {
+                            tillEndDate:today
+                               response:^(NSArray *sleeps) {
+                                   
+                                   for (Sleep *sleep in sleeps) {
+                                       NSLog(@"Response:  \n \
+                                             Date:%@      \n \
+                                             Details:%@   \n \
+                                             Sub Type:%@  \n \
+                                             Completed:%@ \n \
+                                             Created:%@   \n \
+                                             Updated:%@   \n \
+                                             Title:%@     \n \
+                                             Type:%@      \n \
+                                             user XID:%@  \n \
+                                             XID:%@",
+                                             sleep.date,
+                                             sleep.details,
+                                             sleep.sub_type,
+                                             sleep.time_completed,
+                                             sleep.time_created,
+                                             sleep.time_updated,
+                                             sleep.title,
+                                             sleep.type,
+                                             sleep.user_xid,
+                                             sleep.xid);
+                                   }
+                                   
                                    [self notify:kGHUnitWaitStatusSuccess forSelector:_cmd];
                                }
-                                failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+                                failure:^(NSError *error) {
                                     [self notify:kGHUnitWaitStatusFailure forSelector:_cmd];
                                 }];
     

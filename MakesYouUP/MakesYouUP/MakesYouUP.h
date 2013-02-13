@@ -36,8 +36,8 @@
 + (void)sleepSummaryDataForUser:(NSString *)user
                   fromStartDate:(NSDate *)startDate
                     tillEndDate:(NSDate *)endDate
-                       response:(void (^)(AFHTTPRequestOperation *operation, id responseObject))success
-                        failure:(void (^)(AFHTTPRequestOperation *operation, NSError *error))failure;
+                       response:(void (^)(NSArray *sleeps))success
+                        failure:(void (^)(NSError *error))failure;
 
 + (void)workOutSummaryDataForUser:(NSString *)user
                     fromStartDate:(NSDate *)startDate

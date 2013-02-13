@@ -158,7 +158,7 @@ _token=<your auth token>
     [[MUPAPIClient sharedClient] getPath:path
                               parameters:param
                                  success:^(AFHTTPRequestOperation *operation, id responseObject) {
-//                                     NSLog(@"ResponseObject:%@ \n \n \n \n", responseObject);
+                                     
                                      DailySummary *dailySummary = [[DailySummary alloc] initWithDailySummaryAttributes:[responseObject valueForKey:@"data"]];
                                      
                                      
@@ -204,28 +204,34 @@ _token=<your auth token>
 + (void)sleepSummaryDataForUser:(NSString *)user
                   fromStartDate:(NSDate *)startDate
                     tillEndDate:(NSDate *)endDate
-                       response:(void (^)(AFHTTPRequestOperation *operation, id responseObject))success
-                        failure:(void (^)(AFHTTPRequestOperation *operation, NSError *error))failure {
+                       response:(void (^)(NSArray *sleeps))success
+                        failure:(void (^)(NSError *error))failure {
     
     NSString *path = [NSString stringWithFormat:@"nudge/api/users/%@/sleeps", user];
     NSString *token = [[MakesYouUP sharedInstance] userToken];
     long epochStartDate = (long)[startDate timeIntervalSince1970];
     long epochEndDate = (long)[endDate timeIntervalSince1970];
     
+    NSDictionary *param = @{@"start_time": [NSString stringWithFormat:@"%ld", epochStartDate],
+                            @"end_time": [NSString stringWithFormat:@"%ld", epochEndDate],
+                            @"_token":token};
+    
     
     [[MUPAPIClient sharedClient] getPath:path
-                                parameters:@{@"start_time": [NSString stringWithFormat:@"%ld", epochStartDate], @"end_time": [NSString stringWithFormat:@"%ld", epochEndDate], @"_token":token}
+                                parameters:param
                                    success:^(AFHTTPRequestOperation *operation, id responseObject) {
                                        
-                                       success(operation, responseObject);
-                                       
-                                       
+                                       NSArray *sleeps = [[responseObject valueForKey:@"data"] valueForKey:@"items"];
+                                       NSMutableArray *sleepsObjects = [[NSMutableArray alloc] initWithCapacity:[sleeps count]];
+                                       for (NSDictionary *sleep in sleeps) {
+                                           
+                                           [sleepsObjects addObject:[[Sleep alloc] initWithSleepAttributes:sleep]];
+                                           
+                                       }
+                                       success(sleepsObjects);
                                    }
                                    failure:^(AFHTTPRequestOperation *operation, NSError *error) {
-                                       
-                                       failure(operation, error);
-                                       
-                                       
+                                       failure(error);
                                    }];
     
     

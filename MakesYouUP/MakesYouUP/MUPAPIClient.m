@@ -7,7 +7,7 @@
 //
 
 #import "MUPAPIClient.h"
-#import "SocialFeed.h"
+#import "MUPSocialFeed.h"
 
 #import "AFJSONRequestOperation.h"
 

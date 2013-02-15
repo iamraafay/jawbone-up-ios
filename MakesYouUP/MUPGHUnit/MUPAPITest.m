@@ -9,8 +9,8 @@
 #import <GHUnitIOS/GHUnit.h>
 #import "MakesYouUP.h"
 
-#import "SocialFeed.h"
-#import "DailySummary.h"
+#import "MUPSocialFeed.h"
+#import "MUPDailySummary.h"
 
 @interface MUPAPITest : GHAsyncTestCase
 
@@ -24,8 +24,8 @@ static NSString * const kMUPOwnerID = @"@me";
 - (void)testSignIn {
     [super prepare];
     
-    [MakesYouUP signWithUsername:@"me@mymail.com"
-                     andPassword:@"mypass"
+    [MakesYouUP signWithUsername:@"mohdabdurraafay@yahoo.com"
+                     andPassword:@"0049399"
                         response:^(AFHTTPRequestOperation *operation, id responseObject) {
                             
                             NSLog(@"Response For Signin:%@", responseObject);
@@ -59,7 +59,7 @@ static NSString * const kMUPOwnerID = @"@me";
                           NSLog(@"socialFeeds:%@", socialFeeds);
                           
                           int i = 1;
-                          for (SocialFeed *socialFeed in socialFeeds) {
+                          for (MUPSocialFeed *socialFeed in socialFeeds) {
                               NSLog(@"\n SocialFeed %d - \n \
                                     1. activity_xid:%@ \n \
                                     2. appGenerate:%@ \n \
@@ -134,7 +134,7 @@ static NSString * const kMUPOwnerID = @"@me";
     
     [MakesYouUP dailySummaryForDate:@"2013-2-12"
                             forUser:kMUPOwnerID
-                           response:^(DailySummary *dailySummary) {
+                           response:^(MUPDailySummary *dailySummary) {
                                
                                NSLog(@"DailySummary =    \n \
                                      Date:%@             \n \
@@ -240,12 +240,12 @@ static NSString * const kMUPOwnerID = @"@me";
     NSDate *yesterday = [today dateByAddingTimeInterval:-86400.0];
     NSDate *yesterdayOfYesterday = [yesterday dateByAddingTimeInterval:-86400.0];
     
-    [MakesYouUP sleepSummaryDataForUser:kMUPOwnerID
+    [MakesYouUP sleepSummaryForUserName:kMUPOwnerID
                           fromStartDate:yesterdayOfYesterday
                             tillEndDate:today
                                response:^(NSArray *sleeps) {
                                    
-                                   for (Sleep *sleep in sleeps) {
+                                   for (MUPSleep *sleep in sleeps) {
                                        NSLog(@"Response:  \n \
                                              Date:%@      \n \
                                              Details:%@   \n \

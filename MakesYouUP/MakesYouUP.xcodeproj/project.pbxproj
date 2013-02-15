@@ -39,26 +39,26 @@
 		614C9C2A16BFC2E1009872E8 /* UIImageView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 618078ED16BA906500A04138 /* UIImageView+AFNetworking.m */; };
 		614C9C3116BFC51F009872E8 /* MUPAPITest.m in Sources */ = {isa = PBXBuildFile; fileRef = 614C9C3016BFC51F009872E8 /* MUPAPITest.m */; };
 		614C9C3216BFC51F009872E8 /* MUPAPITest.m in Sources */ = {isa = PBXBuildFile; fileRef = 614C9C3016BFC51F009872E8 /* MUPAPITest.m */; };
-		617A842516C9248300E9F775 /* DailySummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842416C9248300E9F775 /* DailySummary.m */; };
-		617A842616C9248800E9F775 /* DailySummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842416C9248300E9F775 /* DailySummary.m */; };
-		617A842916C925ED00E9F775 /* EatSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842816C925ED00E9F775 /* EatSummary.m */; };
-		617A842A16C925ED00E9F775 /* EatSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842816C925ED00E9F775 /* EatSummary.m */; };
-		617A842D16C9274700E9F775 /* MoveSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842C16C9274700E9F775 /* MoveSummary.m */; };
-		617A842E16C9274700E9F775 /* MoveSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842C16C9274700E9F775 /* MoveSummary.m */; };
-		617A843116C9290600E9F775 /* SleepSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843016C9290600E9F775 /* SleepSummary.m */; };
-		617A843216C9290600E9F775 /* SleepSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843016C9290600E9F775 /* SleepSummary.m */; };
-		617A843516C92A0B00E9F775 /* Sleep.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843416C92A0B00E9F775 /* Sleep.m */; };
-		617A843616C92A0B00E9F775 /* Sleep.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843416C92A0B00E9F775 /* Sleep.m */; };
-		617A843916CA464C00E9F775 /* Meal.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843816CA464B00E9F775 /* Meal.m */; };
-		617A843A16CA464C00E9F775 /* Meal.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843816CA464B00E9F775 /* Meal.m */; };
+		617A842516C9248300E9F775 /* MUPDailySummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842416C9248300E9F775 /* MUPDailySummary.m */; };
+		617A842616C9248800E9F775 /* MUPDailySummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842416C9248300E9F775 /* MUPDailySummary.m */; };
+		617A842916C925ED00E9F775 /* MUPEatSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842816C925ED00E9F775 /* MUPEatSummary.m */; };
+		617A842A16C925ED00E9F775 /* MUPEatSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842816C925ED00E9F775 /* MUPEatSummary.m */; };
+		617A842D16C9274700E9F775 /* MUPMoveSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842C16C9274700E9F775 /* MUPMoveSummary.m */; };
+		617A842E16C9274700E9F775 /* MUPMoveSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A842C16C9274700E9F775 /* MUPMoveSummary.m */; };
+		617A843116C9290600E9F775 /* MUPSleepSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843016C9290600E9F775 /* MUPSleepSummary.m */; };
+		617A843216C9290600E9F775 /* MUPSleepSummary.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843016C9290600E9F775 /* MUPSleepSummary.m */; };
+		617A843516C92A0B00E9F775 /* MUPSleep.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843416C92A0B00E9F775 /* MUPSleep.m */; };
+		617A843616C92A0B00E9F775 /* MUPSleep.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843416C92A0B00E9F775 /* MUPSleep.m */; };
+		617A843916CA464C00E9F775 /* MUPMeal.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843816CA464B00E9F775 /* MUPMeal.m */; };
+		617A843A16CA464C00E9F775 /* MUPMeal.m in Sources */ = {isa = PBXBuildFile; fileRef = 617A843816CA464B00E9F775 /* MUPMeal.m */; };
 		618078B216BA8DC500A04138 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 618078B116BA8DC500A04138 /* Foundation.framework */; };
 		618078B716BA8DC500A04138 /* MakesYouUP.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 618078B616BA8DC500A04138 /* MakesYouUP.h */; };
 		618078B916BA8DC500A04138 /* MakesYouUP.m in Sources */ = {isa = PBXBuildFile; fileRef = 618078B816BA8DC500A04138 /* MakesYouUP.m */; };
 		6180790116BA9BAA00A04138 /* MUPAPIClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 618078FF16BA9BA200A04138 /* MUPAPIClient.m */; };
-		61BBBA6116C38AA9005F6551 /* SocialFeed.m in Sources */ = {isa = PBXBuildFile; fileRef = 61BBBA6016C38AA9005F6551 /* SocialFeed.m */; };
-		61BBBA6316C3B4F2005F6551 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 61D3551816C10F3E007CB6B3 /* User.m */; };
-		61BBBA6416C3B4F2005F6551 /* SocialFeed.m in Sources */ = {isa = PBXBuildFile; fileRef = 61BBBA6016C38AA9005F6551 /* SocialFeed.m */; };
-		61D3551916C10F3E007CB6B3 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 61D3551816C10F3E007CB6B3 /* User.m */; };
+		61BBBA6116C38AA9005F6551 /* MUPSocialFeed.m in Sources */ = {isa = PBXBuildFile; fileRef = 61BBBA6016C38AA9005F6551 /* MUPSocialFeed.m */; };
+		61BBBA6316C3B4F2005F6551 /* MUPUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 61D3551816C10F3E007CB6B3 /* MUPUser.m */; };
+		61BBBA6416C3B4F2005F6551 /* MUPSocialFeed.m in Sources */ = {isa = PBXBuildFile; fileRef = 61BBBA6016C38AA9005F6551 /* MUPSocialFeed.m */; };
+		61D3551916C10F3E007CB6B3 /* MUPUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 61D3551816C10F3E007CB6B3 /* MUPUser.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -76,7 +76,6 @@
 
 /* Begin PBXFileReference section */
 		614C9BB416BFAAB6009872E8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		614C9BB616BFAAB6009872E8 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		614C9BF916BFBD45009872E8 /* MUPGHUnit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MUPGHUnit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		614C9BFF16BFBD45009872E8 /* MUPGHUnit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MUPGHUnit-Info.plist"; sourceTree = "<group>"; };
 		614C9C0116BFBD45009872E8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -87,18 +86,18 @@
 		614C9C0D16BFBD45009872E8 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		614C9C1216BFBD7C009872E8 /* GHUnitIOS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GHUnitIOS.framework; sourceTree = "<group>"; };
 		614C9C3016BFC51F009872E8 /* MUPAPITest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MUPAPITest.m; sourceTree = "<group>"; };
-		617A842316C9248300E9F775 /* DailySummary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DailySummary.h; sourceTree = "<group>"; };
-		617A842416C9248300E9F775 /* DailySummary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DailySummary.m; sourceTree = "<group>"; };
-		617A842716C925ED00E9F775 /* EatSummary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EatSummary.h; sourceTree = "<group>"; };
-		617A842816C925ED00E9F775 /* EatSummary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EatSummary.m; sourceTree = "<group>"; };
-		617A842B16C9274700E9F775 /* MoveSummary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoveSummary.h; sourceTree = "<group>"; };
-		617A842C16C9274700E9F775 /* MoveSummary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoveSummary.m; sourceTree = "<group>"; };
-		617A842F16C9290600E9F775 /* SleepSummary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SleepSummary.h; sourceTree = "<group>"; };
-		617A843016C9290600E9F775 /* SleepSummary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SleepSummary.m; sourceTree = "<group>"; };
-		617A843316C92A0B00E9F775 /* Sleep.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sleep.h; sourceTree = "<group>"; };
-		617A843416C92A0B00E9F775 /* Sleep.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Sleep.m; sourceTree = "<group>"; };
-		617A843716CA464B00E9F775 /* Meal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Meal.h; sourceTree = "<group>"; };
-		617A843816CA464B00E9F775 /* Meal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Meal.m; sourceTree = "<group>"; };
+		617A842316C9248300E9F775 /* MUPDailySummary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MUPDailySummary.h; sourceTree = "<group>"; };
+		617A842416C9248300E9F775 /* MUPDailySummary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MUPDailySummary.m; sourceTree = "<group>"; };
+		617A842716C925ED00E9F775 /* MUPEatSummary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MUPEatSummary.h; sourceTree = "<group>"; };
+		617A842816C925ED00E9F775 /* MUPEatSummary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MUPEatSummary.m; sourceTree = "<group>"; };
+		617A842B16C9274700E9F775 /* MUPMoveSummary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MUPMoveSummary.h; sourceTree = "<group>"; };
+		617A842C16C9274700E9F775 /* MUPMoveSummary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MUPMoveSummary.m; sourceTree = "<group>"; };
+		617A842F16C9290600E9F775 /* MUPSleepSummary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MUPSleepSummary.h; sourceTree = "<group>"; };
+		617A843016C9290600E9F775 /* MUPSleepSummary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MUPSleepSummary.m; sourceTree = "<group>"; };
+		617A843316C92A0B00E9F775 /* MUPSleep.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MUPSleep.h; sourceTree = "<group>"; };
+		617A843416C92A0B00E9F775 /* MUPSleep.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MUPSleep.m; sourceTree = "<group>"; };
+		617A843716CA464B00E9F775 /* MUPMeal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MUPMeal.h; sourceTree = "<group>"; };
+		617A843816CA464B00E9F775 /* MUPMeal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MUPMeal.m; sourceTree = "<group>"; };
 		618078AE16BA8DC500A04138 /* libMakesYouUP.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libMakesYouUP.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		618078B116BA8DC500A04138 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		618078B516BA8DC500A04138 /* MakesYouUP-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MakesYouUP-Prefix.pch"; sourceTree = "<group>"; };
@@ -127,10 +126,10 @@
 		618078ED16BA906500A04138 /* UIImageView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+AFNetworking.m"; sourceTree = "<group>"; };
 		618078FE16BA9BA200A04138 /* MUPAPIClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MUPAPIClient.h; path = MakesYouUP/MUPAPIClient.h; sourceTree = "<group>"; };
 		618078FF16BA9BA200A04138 /* MUPAPIClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MUPAPIClient.m; path = MakesYouUP/MUPAPIClient.m; sourceTree = "<group>"; };
-		61BBBA5F16C38AA9005F6551 /* SocialFeed.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocialFeed.h; sourceTree = "<group>"; };
-		61BBBA6016C38AA9005F6551 /* SocialFeed.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocialFeed.m; sourceTree = "<group>"; };
-		61D3551716C10F3E007CB6B3 /* User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = User.h; sourceTree = "<group>"; };
-		61D3551816C10F3E007CB6B3 /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
+		61BBBA5F16C38AA9005F6551 /* MUPSocialFeed.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MUPSocialFeed.h; sourceTree = "<group>"; };
+		61BBBA6016C38AA9005F6551 /* MUPSocialFeed.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MUPSocialFeed.m; sourceTree = "<group>"; };
+		61D3551716C10F3E007CB6B3 /* MUPUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MUPUser.h; sourceTree = "<group>"; };
+		61D3551816C10F3E007CB6B3 /* MUPUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MUPUser.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,7 +182,6 @@
 		618078A516BA8DC500A04138 = {
 			isa = PBXGroup;
 			children = (
-				618078F716BA928A00A04138 /* Networking Extensions */,
 				618078B316BA8DC500A04138 /* MakesYouUP */,
 				618078D916BA903D00A04138 /* Vendor */,
 				614C9BFD16BFBD45009872E8 /* MUPGHUnit */,
@@ -209,7 +207,6 @@
 				618078C016BA8DC500A04138 /* SenTestingKit.framework */,
 				618078C216BA8DC500A04138 /* UIKit.framework */,
 				614C9BB416BFAAB6009872E8 /* CoreGraphics.framework */,
-				614C9BB616BFAAB6009872E8 /* CoreData.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -217,6 +214,7 @@
 		618078B316BA8DC500A04138 /* MakesYouUP */ = {
 			isa = PBXGroup;
 			children = (
+				618078F716BA928A00A04138 /* Networking Extensions */,
 				61D3551616C10F10007CB6B3 /* Models */,
 				618078B616BA8DC500A04138 /* MakesYouUP.h */,
 				618078B816BA8DC500A04138 /* MakesYouUP.m */,
@@ -274,27 +272,28 @@
 				618078FF16BA9BA200A04138 /* MUPAPIClient.m */,
 			);
 			name = "Networking Extensions";
+			path = ..;
 			sourceTree = "<group>";
 		};
 		61D3551616C10F10007CB6B3 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				61D3551716C10F3E007CB6B3 /* User.h */,
-				61D3551816C10F3E007CB6B3 /* User.m */,
-				61BBBA5F16C38AA9005F6551 /* SocialFeed.h */,
-				61BBBA6016C38AA9005F6551 /* SocialFeed.m */,
-				617A842316C9248300E9F775 /* DailySummary.h */,
-				617A842416C9248300E9F775 /* DailySummary.m */,
-				617A842716C925ED00E9F775 /* EatSummary.h */,
-				617A842816C925ED00E9F775 /* EatSummary.m */,
-				617A842B16C9274700E9F775 /* MoveSummary.h */,
-				617A842C16C9274700E9F775 /* MoveSummary.m */,
-				617A842F16C9290600E9F775 /* SleepSummary.h */,
-				617A843016C9290600E9F775 /* SleepSummary.m */,
-				617A843316C92A0B00E9F775 /* Sleep.h */,
-				617A843416C92A0B00E9F775 /* Sleep.m */,
-				617A843716CA464B00E9F775 /* Meal.h */,
-				617A843816CA464B00E9F775 /* Meal.m */,
+				61D3551716C10F3E007CB6B3 /* MUPUser.h */,
+				61D3551816C10F3E007CB6B3 /* MUPUser.m */,
+				61BBBA5F16C38AA9005F6551 /* MUPSocialFeed.h */,
+				61BBBA6016C38AA9005F6551 /* MUPSocialFeed.m */,
+				617A842316C9248300E9F775 /* MUPDailySummary.h */,
+				617A842416C9248300E9F775 /* MUPDailySummary.m */,
+				617A842716C925ED00E9F775 /* MUPEatSummary.h */,
+				617A842816C925ED00E9F775 /* MUPEatSummary.m */,
+				617A842B16C9274700E9F775 /* MUPMoveSummary.h */,
+				617A842C16C9274700E9F775 /* MUPMoveSummary.m */,
+				617A842F16C9290600E9F775 /* MUPSleepSummary.h */,
+				617A843016C9290600E9F775 /* MUPSleepSummary.m */,
+				617A843316C92A0B00E9F775 /* MUPSleep.h */,
+				617A843416C92A0B00E9F775 /* MUPSleep.m */,
+				617A843716CA464B00E9F775 /* MUPMeal.h */,
+				617A843816CA464B00E9F775 /* MUPMeal.m */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -395,14 +394,14 @@
 				614C9C2016BFC2E0009872E8 /* AFXMLRequestOperation.m in Sources */,
 				614C9C2116BFC2E0009872E8 /* UIImageView+AFNetworking.m in Sources */,
 				614C9C3216BFC51F009872E8 /* MUPAPITest.m in Sources */,
-				61BBBA6316C3B4F2005F6551 /* User.m in Sources */,
-				61BBBA6416C3B4F2005F6551 /* SocialFeed.m in Sources */,
-				617A842616C9248800E9F775 /* DailySummary.m in Sources */,
-				617A842A16C925ED00E9F775 /* EatSummary.m in Sources */,
-				617A842E16C9274700E9F775 /* MoveSummary.m in Sources */,
-				617A843216C9290600E9F775 /* SleepSummary.m in Sources */,
-				617A843616C92A0B00E9F775 /* Sleep.m in Sources */,
-				617A843A16CA464C00E9F775 /* Meal.m in Sources */,
+				61BBBA6316C3B4F2005F6551 /* MUPUser.m in Sources */,
+				61BBBA6416C3B4F2005F6551 /* MUPSocialFeed.m in Sources */,
+				617A842616C9248800E9F775 /* MUPDailySummary.m in Sources */,
+				617A842A16C925ED00E9F775 /* MUPEatSummary.m in Sources */,
+				617A842E16C9274700E9F775 /* MUPMoveSummary.m in Sources */,
+				617A843216C9290600E9F775 /* MUPSleepSummary.m in Sources */,
+				617A843616C92A0B00E9F775 /* MUPSleep.m in Sources */,
+				617A843A16CA464C00E9F775 /* MUPMeal.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -422,14 +421,14 @@
 				614C9C2916BFC2E1009872E8 /* AFXMLRequestOperation.m in Sources */,
 				614C9C2A16BFC2E1009872E8 /* UIImageView+AFNetworking.m in Sources */,
 				614C9C3116BFC51F009872E8 /* MUPAPITest.m in Sources */,
-				61D3551916C10F3E007CB6B3 /* User.m in Sources */,
-				61BBBA6116C38AA9005F6551 /* SocialFeed.m in Sources */,
-				617A842516C9248300E9F775 /* DailySummary.m in Sources */,
-				617A842916C925ED00E9F775 /* EatSummary.m in Sources */,
-				617A842D16C9274700E9F775 /* MoveSummary.m in Sources */,
-				617A843116C9290600E9F775 /* SleepSummary.m in Sources */,
-				617A843516C92A0B00E9F775 /* Sleep.m in Sources */,
-				617A843916CA464C00E9F775 /* Meal.m in Sources */,
+				61D3551916C10F3E007CB6B3 /* MUPUser.m in Sources */,
+				61BBBA6116C38AA9005F6551 /* MUPSocialFeed.m in Sources */,
+				617A842516C9248300E9F775 /* MUPDailySummary.m in Sources */,
+				617A842916C925ED00E9F775 /* MUPEatSummary.m in Sources */,
+				617A842D16C9274700E9F775 /* MUPMoveSummary.m in Sources */,
+				617A843116C9290600E9F775 /* MUPSleepSummary.m in Sources */,
+				617A843516C92A0B00E9F775 /* MUPSleep.m in Sources */,
+				617A843916CA464C00E9F775 /* MUPMeal.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

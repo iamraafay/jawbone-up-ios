@@ -1,0 +1,982 @@
+TMUPGHUnit
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Info.plist MUPGHUnit/MUPGHUnit-Info.plist
+cProcessPCH /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch.pth MUPGHUnit/MUPGHUnit-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFImageRequestOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFImageRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPITest.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/main.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MakesYouUP.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPIClient.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPClient.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFJSONRequestOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFJSONRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFPropertyListRequestOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFPropertyListRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFXMLRequestOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFXMLRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPUser.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPUser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSocialFeed.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSocialFeed.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPDailySummary.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPDailySummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMoveSummary.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMoveSummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPEatSummary.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPEatSummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleepSummary.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleepSummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMeal.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMeal.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleep.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleep.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit normal i386
+cGenerateDSYMFile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app.dSYM /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit
+cCopyStringsFile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/en.lproj/InfoPlist.strings MUPGHUnit/en.lproj/InfoPlist.strings
+cCpResource MUPGHUnit/Default-568h@2x.png /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default-568h@2x.png
+cCpResource MUPGHUnit/Default.png /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default.png
+cCpResource MUPGHUnit/Default@2x.png /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default@2x.png
+cTouch /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/UIKit.framework/UIKit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005107683C0000000000228FE0
+t1359439932
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005107683D00000000003DDFA0
+t1359439933
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005107683D00000000000015F7
+t1359439933
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000510768420000000000000E8D
+t1359439938
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000510768510000000000001B73
+t1359439953
+s7027
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPClient.o
+t1360931148
+s196228
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPRequestOperation.o
+t1360931147
+s70248
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFImageRequestOperation.o
+t1360931147
+s49276
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFJSONRequestOperation.o
+t1360931147
+s37948
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o
+t1360931148
+s24776
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFPropertyListRequestOperation.o
+t1360931148
+s40508
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFURLConnectionOperation.o
+t1360931148
+s199184
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFXMLRequestOperation.o
+t1360931148
+s33704
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPIClient.o
+t1360931147
+s11296
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPITest.o
+t1360931147
+s55052
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPDailySummary.o
+t1360931148
+s28092
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPEatSummary.o
+t1360931148
+s9476
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPGHUnit.LinkFileList
+c00000000511E29490000000000000E5E
+t1360931145
+s3678
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMeal.o
+t1360931148
+s20624
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMoveSummary.o
+t1360931148
+s11552
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleep.o
+t1360931148
+s15400
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleepSummary.o
+t1360931148
+s12324
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSocialFeed.o
+t1360931148
+s25428
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPUser.o
+t1360931148
+s12728
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MakesYouUP.o
+t1360934744
+s65712
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/UIImageView+AFNetworking.o
+t1360931148
+s93692
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/main.o
+t1360931147
+s3088
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch.pth
+t1360931147
+s4678568
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app
+t1360934745
+s306
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app.dSYM
+t1360934745
+s102
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default-568h@2x.png
+t1360931150
+s18594
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default.png
+t1360931150
+s6540
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default@2x.png
+t1360931150
+s16107
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Info.plist
+t1360931145
+s797
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit
+t1360934744
+s655300
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/PkgInfo
+t1360931145
+s8
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/en.lproj/InfoPlist.strings
+t1360931150
+s42
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h
+c00000000511E1B200000000000008A1A
+t1360927520
+s35354
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m
+c00000000511E1B20000000000000C021
+t1360927520
+s49185
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPRequestOperation.h
+c00000000511E1B200000000000001912
+t1360927520
+s6418
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPRequestOperation.m
+c00000000511E1B200000000000003D1A
+t1360927520
+s15642
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFImageRequestOperation.h
+c00000000511E1B20000000000000162C
+t1360927520
+s5676
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFImageRequestOperation.m
+c00000000511E1B200000000000002457
+t1360927520
+s9303
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFJSONRequestOperation.h
+c00000000511E1B200000000000000E83
+t1360927520
+s3715
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFJSONRequestOperation.m
+c00000000511E1B2000000000000015F8
+t1360927520
+s5624
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFNetworkActivityIndicatorManager.h
+c00000000511E1B200000000000000EC4
+t1360927520
+s3780
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFNetworkActivityIndicatorManager.m
+c00000000511E1B200000000000001330
+t1360927520
+s4912
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFPropertyListRequestOperation.h
+c00000000511E1B200000000000000DCB
+t1360927520
+s3531
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFPropertyListRequestOperation.m
+c00000000511E1B200000000000001603
+t1360927520
+s5635
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFURLConnectionOperation.h
+c00000000511E1B20000000000000452D
+t1360927520
+s17709
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFURLConnectionOperation.m
+c00000000511E1B2000000000000066DE
+t1360927520
+s26334
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFXMLRequestOperation.h
+c00000000511E1B2000000000000013E0
+t1360927520
+s5088
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFXMLRequestOperation.m
+c00000000511E1B2000000000000018F3
+t1360927520
+s6387
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/UIImageView+AFNetworking.h
+c00000000511E1B200000000000001550
+t1360927520
+s5456
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/UIImageView+AFNetworking.m
+c00000000511E1B200000000000001939
+t1360927520
+s6457
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/GHUnitIOS
+c00000000511E1B20000000000031295C
+t1360927520
+s3221852
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHAsyncTestCase.h
+c00000000511E1B2000000000000012C4
+t1360927520
+s4804
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTest+JUnitXML.h
+c00000000511E1B2000000000000005BC
+t1360927520
+s1468
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTest.h
+c00000000511E1B200000000000001A0A
+t1360927520
+s6666
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestCase.h
+c00000000511E1B200000000000001269
+t1360927520
+s4713
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestGroup+JUnitXML.h
+c00000000511E1B200000000000000598
+t1360927520
+s1432
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestGroup.h
+c00000000511E1B200000000000001586
+t1360927520
+s5510
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestMacros.h
+c00000000511E1B20000000000000A0AB
+t1360927520
+s41131
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestOperation.h
+c00000000511E1B20000000000000062B
+t1360927520
+s1579
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestRunner.h
+c00000000511E1B200000000000001653
+t1360927520
+s5715
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestSuite.h
+c00000000511E1B200000000000000EB0
+t1360927520
+s3760
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTesting.h
+c00000000511E1B2000000000000010F6
+t1360927520
+s4342
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHUnit.h
+c00000000511E1B20000000000000076B
+t1360927520
+s1899
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHUnitIOSAppDelegate.h
+c00000000511E1B2000000000000005C4
+t1360927520
+s1476
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHViewTestCase.h
+c00000000511E1B2000000000000012A8
+t1360927520
+s4776
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/NSException+GHTestFailureExceptions.h
+c00000000511E1B2000000000000010C0
+t1360927520
+s4288
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/NSValue+GHValueFormatter.h
+c00000000511E1B200000000000000BF7
+t1360927520
+s3063
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/Default-568h@2x.png
+c00000000511E1B2000000000000048A2
+t1360927520
+s18594
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/Default.png
+c00000000511E1B20000000000000198C
+t1360927520
+s6540
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/Default@2x.png
+c00000000511E1B200000000000003EEB
+t1360927520
+s16107
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m
+c00000000511E378F0000000000003A04
+t1360934799
+s14852
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPGHUnit-Prefix.pch
+c00000000511E1B200000000000000141
+t1360927520
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/en.lproj/InfoPlist.strings
+c00000000511E1B20000000000000002D
+t1360927520
+s45
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/main.m
+c00000000511E1B20000000000000015B
+t1360927520
+s347
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m
+c00000000511E1CB1000000000000090E
+t1360927921
+s2318
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h
+c00000000511E1B2000000000000001EE
+t1360927520
+s494
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPDailySummary.h
+c00000000511E1CED0000000000001CE7
+t1360927981
+s7399
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPDailySummary.m
+c00000000511E2083000000000000074E
+t1360928899
+s1870
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPEatSummary.h
+c00000000511E1CD100000000000001D7
+t1360927953
+s471
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPEatSummary.m
+c00000000511E209600000000000002BF
+t1360928918
+s703
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMeal.h
+c00000000511E1D030000000000000B1A
+t1360928003
+s2842
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMeal.m
+c00000000511E22A400000000000004D8
+t1360929444
+s1240
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMoveSummary.h
+c00000000511E1CDF0000000000000360
+t1360927967
+s864
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMoveSummary.m
+c00000000511E20AA000000000000028E
+t1360928938
+s654
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleep.h
+c00000000511E1CF80000000000000813
+t1360927992
+s2067
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleep.m
+c00000000511E22CA000000000000035E
+t1360929482
+s862
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleepSummary.h
+c00000000511E1CF80000000000000E18
+t1360927992
+s3608
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleepSummary.m
+c00000000511E2284000000000000035A
+t1360929412
+s858
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSocialFeed.h
+c00000000511E1CB10000000000000AC6
+t1360927921
+s2758
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSocialFeed.m
+c00000000511E22F40000000000000643
+t1360929524
+s1603
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPUser.h
+c00000000511E1CA000000000000003A8
+t1360927904
+s936
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPUser.m
+c00000000511E22FD00000000000002AF
+t1360929533
+s687
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h
+c00000000511E1D1A0000000000000814
+t1360928026
+s2068
+
+N/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m
+c00000000511E35C200000000000029CE
+t1360934338
+s10702
+
+NMUPGHUnit/MUPGHUnit-Info.plist
+c00000000511E1B20000000000000048D
+t1360927520
+s1165
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPRequestOperation.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFImageRequestOperation.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFJSONRequestOperation.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFNetworkActivityIndicatorManager.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFPropertyListRequestOperation.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFURLConnectionOperation.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFXMLRequestOperation.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/UIImageView+AFNetworking.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/main.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPDailySummary.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPEatSummary.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMeal.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMoveSummary.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleep.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleepSummary.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSocialFeed.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPUser.m
+r0
+
+CBuild AST from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies83dd08106fceb641^061109106fceb641^---0#1#0#--18"Check dependencies36"5AF48953-1595-470C-8738-B8F1653B31AD-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPClient.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623947.761472
+e382623948.121471
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPClient.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m:25:
+o/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:83:2: warning: SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. [-W#warnings]
+o#warning SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available.
+o ^
+o/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:88:2: warning: MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. [-W#warnings]
+o#warning MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available.
+o ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.mb306c3cb60ceb641^250221cd60ceb641^-1100"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m:25:/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:83:2: warning: SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. [-W#warnings]#warning SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. ^/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:88:2: warning: MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. [-W#warnings]#warning MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@148"SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available.-382623948#18446744073709551615#0#1(2@125"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m:25:-382623948#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m0000000000000000^24#8#24#8#1192#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h0000000000000000^82#1#82#1#4853#0#18"#warning Directive--2@185"MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available.-382623948#18446744073709551615#0#1(2@125"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m:25:-382623948#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m0000000000000000^24#8#24#8#1192#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h0000000000000000^87#1#87#1#5075#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m0000000000000000^4182"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPClient.o AFNetworking/AFHTTPClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPClient.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPClient.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPClient.o36"21B1345B-C8A0-48DA-8AFE-405F7D3E367C-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623947.467360
+e382623947.779858
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPRequestOperation.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPRequestOperation.m53e977cb60ceb641^1aa5c7cb60ceb641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPRequestOperation.m0000000000000000^4242"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPRequestOperation.o AFNetworking/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPRequestOperation.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPRequestOperation.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPRequestOperation.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFHTTPRequestOperation.o36"8E15D201-EAFE-4091-96F1-5B8CA70384A4-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFImageRequestOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFImageRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623947.467374
+e382623947.758998
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFImageRequestOperation.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFImageRequestOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFImageRequestOperation.m8ee777cb60ceb641^8b4ec2cb60ceb641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFImageRequestOperation.m0000000000000000^4248"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFImageRequestOperation.o AFNetworking/AFImageRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFImageRequestOperation.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFImageRequestOperation.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFImageRequestOperation.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFImageRequestOperation.o36"9922172A-C8C6-476A-8075-B39D5E0CB728-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFJSONRequestOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFJSONRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623947.781253
+e382623947.961473
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFJSONRequestOperation.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFJSONRequestOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFJSONRequestOperation.mda1fc8cb60ceb641^baf720cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFJSONRequestOperation.m0000000000000000^4242"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFJSONRequestOperation.o AFNetworking/AFJSONRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFJSONRequestOperation.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFJSONRequestOperation.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFJSONRequestOperation.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFJSONRequestOperation.o36"FE5510B7-CB8C-4D7A-96F4-4FF0B43D0EA9-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623947.918862
+e382623948.046402
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFNetworkActivityIndicatorManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFNetworkActivityIndicatorManager.m4c6bebcb60ceb641^befa20cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFNetworkActivityIndicatorManager.m0000000000000000^4308"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o AFNetworking/AFNetworkActivityIndicatorManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFNetworkActivityIndicatorManager.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFNetworkActivityIndicatorManager.o36"06E88E4E-4A90-4070-9976-CED25A6C669D-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFPropertyListRequestOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFPropertyListRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623947.936258
+e382623948.056564
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFPropertyListRequestOperation.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFPropertyListRequestOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFPropertyListRequestOperation.m8defefcb60ceb641^83fc20cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFPropertyListRequestOperation.m0000000000000000^4290"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFPropertyListRequestOperation.o AFNetworking/AFPropertyListRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFPropertyListRequestOperation.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFPropertyListRequestOperation.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFPropertyListRequestOperation.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFPropertyListRequestOperation.o36"88D3BD55-BFE4-4782-9825-BC0EB8B7EB74-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623947.962854
+e382623948.213319
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFURLConnectionOperation.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFURLConnectionOperation.m7aa7f6cb60ceb641^b80721cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFURLConnectionOperation.m0000000000000000^4254"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFURLConnectionOperation.o AFNetworking/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFURLConnectionOperation.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFURLConnectionOperation.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFURLConnectionOperation.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFURLConnectionOperation.o36"E62376AF-396E-4FA1-9FB8-A921633072AC-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFXMLRequestOperation.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFXMLRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623948.047783
+e382623948.138399
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFXMLRequestOperation.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFXMLRequestOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFXMLRequestOperation.m73650ccc60ceb641^640321cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFXMLRequestOperation.m0000000000000000^4236"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFXMLRequestOperation.o AFNetworking/AFXMLRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFXMLRequestOperation.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFXMLRequestOperation.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFXMLRequestOperation.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/AFXMLRequestOperation.o36"2F523024-AFEC-46F0-9406-0AD139C95409-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPIClient.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623947.760386
+e382623947.926150
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPIClient.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m:9:
+oIn file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.h:9:
+o/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:83:2: warning: SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. [-W#warnings]
+o#warning SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available.
+o ^
+o/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:88:2: warning: MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. [-W#warnings]
+o#warning MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available.
+o ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.mc9cbc2cb60ceb641^5b5deecb60ceb641^-1248"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m:9:In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.h:9:/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:83:2: warning: SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. [-W#warnings]#warning SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. ^/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:88:2: warning: MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. [-W#warnings]#warning MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@148"SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available.-382623947#18446744073709551615#0#2(2@136"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m:9:-382623947#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@113"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.m0000000000000000^8#8#8#8#167#0#30"Apple LLVM compiler 4.2 Notice--2@136"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.h:9:-382623947#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h0000000000000000^8#8#8#8#167#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h0000000000000000^82#1#82#1#4853#0#18"#warning Directive--2@185"MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available.-382623947#18446744073709551615#0#2(2@136"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m:9:-382623947#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.m0000000000000000^8#8#8#8#167#0#30"Apple LLVM compiler 4.2 Notice--2@136"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.h:9:-382623947#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h0000000000000000^8#8#8#8#167#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h0000000000000000^87#1#87#1#5075#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@127"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m0000000000000000^4206"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPIClient.o MakesYouUP/../MakesYouUP/MUPAPIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPIClient.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPIClient.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/../MakesYouUP/MUPAPIClient.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPIClient.o36"37376592-2E78-4DDA-9DEB-3B4675212A45-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPITest.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382627600.056936
+e382627600.117047
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPITest.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m:10:
+oIn file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h:10:
+oIn file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h:9:
+o/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:83:2: warning: SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. [-W#warnings]
+o#warning SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available.
+o ^
+o/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:88:2: warning: MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. [-W#warnings]
+o#warning MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available.
+o ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m96b40e106fceb641^01f61d106fceb641^-1340"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m:10:In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h:10:In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h:9:/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:83:2: warning: SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. [-W#warnings]#warning SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. ^/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:88:2: warning: MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. [-W#warnings]#warning MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@148"SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available.-382627600#18446744073709551615#0#3(2@120"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m:10:-382627600#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@110"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m0000000000000000^9#8#9#8#194#0#30"Apple LLVM compiler 4.2 Notice--2@121"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h:10:-382627600#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@111"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h0000000000000000^9#8#9#8#199#0#30"Apple LLVM compiler 4.2 Notice--2@122"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h:9:-382627600#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h0000000000000000^8#8#8#8#167#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h0000000000000000^82#1#82#1#4853#0#18"#warning Directive--2@185"MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available.-382627600#18446744073709551615#0#3(2@120"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m:10:-382627600#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@110"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m0000000000000000^9#8#9#8#194#0#30"Apple LLVM compiler 4.2 Notice--2@121"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h:10:-382627600#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@111"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h0000000000000000^9#8#9#8#199#0#30"Apple LLVM compiler 4.2 Notice--2@122"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h:9:-382627600#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h0000000000000000^8#8#8#8#167#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h0000000000000000^87#1#87#1#5075#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@110"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m0000000000000000^4164"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPITest.o MUPGHUnit/MUPAPITest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPITest.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPITest.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPAPITest.o36"879D42E4-98F0-474E-BACB-03425EFC730E-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPDailySummary.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPDailySummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623948.214625
+e382623948.281857
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPDailySummary.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPDailySummary.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPDailySummary.ma01637cc60ceb641^ec1221cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPDailySummary.m0000000000000000^4196"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPDailySummary.o MakesYouUP/MUPDailySummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPDailySummary.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPDailySummary.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPDailySummary.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPDailySummary.o36"331EDC0B-1420-44D6-9C94-4860AD2933B6-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPEatSummary.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPEatSummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623948.214608
+e382623948.279758
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPEatSummary.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPEatSummary.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPEatSummary.ma01637cc60ceb641^840f21cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPEatSummary.m0000000000000000^4184"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPEatSummary.o MakesYouUP/MUPEatSummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPEatSummary.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPEatSummary.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPEatSummary.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPEatSummary.o36"B9A8039E-6D14-45BB-A40F-BA52D4DA4352-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMeal.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMeal.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623948.281078
+e382623948.316693
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMeal.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMeal.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMeal.me21d48cc60ceb641^501b21cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMeal.m0000000000000000^4148"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMeal.o MakesYouUP/MUPMeal.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMeal.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMeal.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMeal.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMeal.o36"9F6E108F-FAC2-471D-A7EA-F370F9A560FC-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMoveSummary.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMoveSummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623948.216616
+e382623948.280638
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMoveSummary.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMoveSummary.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMoveSummary.m149337cc60ceb641^061121cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMoveSummary.m0000000000000000^4190"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMoveSummary.o MakesYouUP/MUPMoveSummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMoveSummary.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMoveSummary.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMoveSummary.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPMoveSummary.o36"4D05B9CF-03F6-4939-8CB8-F5231B2DF382-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleep.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleep.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623948.281062
+e382623948.313568
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleep.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleep.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleep.m481648cc60ceb641^b11821cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleep.m0000000000000000^4154"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleep.o MakesYouUP/MUPSleep.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleep.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleep.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleep.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleep.o36"43A31960-1388-41FB-BBAC-11900D5AF1AB-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleepSummary.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleepSummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623948.244089
+e382623948.283285
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleepSummary.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleepSummary.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleepSummary.mc5a93ecc60ceb641^6e1421cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleepSummary.m0000000000000000^4196"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleepSummary.o MakesYouUP/MUPSleepSummary.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleepSummary.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleepSummary.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleepSummary.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSleepSummary.o36"BB6B9ADB-F596-4429-967C-DAC22F56D07A-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSocialFeed.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSocialFeed.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623948.139731
+e382623948.215254
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSocialFeed.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSocialFeed.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSocialFeed.m0fed23cc60ceb641^e10921cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSocialFeed.m0000000000000000^4184"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSocialFeed.o MakesYouUP/MUPSocialFeed.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSocialFeed.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSocialFeed.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSocialFeed.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPSocialFeed.o36"5DEE473E-495F-4B52-8C27-F65C5EEAE51A-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPUser.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPUser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623948.124517
+e382623948.214196
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPUser.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPUser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPUser.mea0820cc60ceb641^e60821cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPUser.m0000000000000000^4148"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPUser.o MakesYouUP/MUPUser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPUser.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPUser.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPUser.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPUser.o36"157DAB23-1190-4C0A-9DB1-143654FBC869-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MakesYouUP.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382627544.615505
+e382627544.688242
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MakesYouUP.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m:9:
+oIn file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h:10:
+oIn file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h:9:
+o/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:83:2: warning: SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. [-W#warnings]
+o#warning SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available.
+o ^
+o/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:88:2: warning: MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. [-W#warnings]
+o#warning MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available.
+o ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.mb6f39dd86eceb641^b796b9d86eceb641^-1340"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m:9:In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h:10:In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h:9:/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:83:2: warning: SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. [-W#warnings]#warning SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available. ^/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h:88:2: warning: MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. [-W#warnings]#warning MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available. ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@148"SystemConfiguration framework not found in project, or not included in precompiled header. Network reachability functionality will not be available.-382627544#18446744073709551615#0#3(2@120"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m:9:-382627544#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@111"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m0000000000000000^8#8#8#8#165#0#30"Apple LLVM compiler 4.2 Notice--2@121"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h:10:-382627544#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@111"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h0000000000000000^9#8#9#8#199#0#30"Apple LLVM compiler 4.2 Notice--2@122"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h:9:-382627544#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h0000000000000000^8#8#8#8#167#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h0000000000000000^82#1#82#1#4853#0#18"#warning Directive--2@185"MobileCoreServices framework not found in project, or not included in precompiled header. Automatic MIME type detection when uploading files in multipart requests will not be available.-382627544#18446744073709551615#0#3(2@120"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m:9:-382627544#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@111"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m0000000000000000^8#8#8#8#165#0#30"Apple LLVM compiler 4.2 Notice--2@121"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h:10:-382627544#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@111"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h0000000000000000^9#8#9#8#199#0#30"Apple LLVM compiler 4.2 Notice--2@122"In file included from /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h:9:-382627544#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h0000000000000000^8#8#8#8#167#0#30"Apple LLVM compiler 4.2 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h0000000000000000^87#1#87#1#5075#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@111"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m0000000000000000^4166"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MakesYouUP.o MakesYouUP/MakesYouUP.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MakesYouUP.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MakesYouUP.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MakesYouUP.o36"8BEA66CA-664A-4E92-A865-2EFE74221FBA-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623948.057930
+e382623948.242761
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/UIImageView+AFNetworking.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/UIImageView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/UIImageView+AFNetworking.m7ffb0ecc60ceb641^d80b21cd60ceb641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/UIImageView+AFNetworking.m0000000000000000^4254"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/UIImageView+AFNetworking.o AFNetworking/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/UIImageView+AFNetworking.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/UIImageView+AFNetworking.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/UIImageView+AFNetworking.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/UIImageView+AFNetworking.o36"9E10DF03-BD80-4E66-A9CB-40AA58313F6F-
+
+CCompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/main.o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623947.467325
+e382623947.734177
+r1
+xCompileC
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/main.o
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/main.m8ee777cb60ceb641^0dfdbbcb60ceb641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/main.m0000000000000000^4128"CompileC /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/main.o MUPGHUnit/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -include /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/main.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/main.m -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/main.o36"905223CD-63AD-4084-B20E-A6F983C58015-
+
+CCopyStringsFile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/en.lproj/InfoPlist.strings MUPGHUnit/en.lproj/InfoPlist.strings
+s382623950.826888
+e382623950.888866
+r1
+xCopyStringsFile
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/en.lproj/InfoPlist.strings
+xMUPGHUnit/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy MUPGHUnit/en.lproj/InfoPlist.stringsc8ced3ce60ceb641^fe26e4ce60ceb641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/en.lproj/InfoPlist.strings0000000000000000^717"CopyStringsFile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/en.lproj/InfoPlist.strings MUPGHUnit/en.lproj/InfoPlist.strings    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/en.lproj -- MUPGHUnit/en.lproj/InfoPlist.strings36"9789BAA7-FAF2-4169-9093-5905CDAE055F-
+
+CCpResource MUPGHUnit/Default-568h@2x.png /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default-568h@2x.png
+s382623950.827098
+e382623950.868684
+r1
+xCpResource
+xMUPGHUnit/Default-568h@2x.png
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Copy /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default-568h@2x.pnga5dad3ce60ceb641^0f63dece60ceb641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default-568h@2x.png000000000080d041^779"CpResource "MUPGHUnit/Default-568h@2x.png" "/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default-568h@2x.png"    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/Default-568h@2x.png" /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app36"9C695090-9D2B-4236-891D-9DB48800E508-
+
+CCpResource MUPGHUnit/Default.png /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default.png
+s382623950.826904
+e382623950.868706
+r1
+xCpResource
+xMUPGHUnit/Default.png
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default.pngffcdd3ce60ceb641^b268dece60ceb641^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default.png000000000080d041^749"CpResource MUPGHUnit/Default.png /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default.png    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/Default.png /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app36"559E71F6-BB4D-4EB1-B2F5-1AA1E1B66AD9-
+
+CCpResource MUPGHUnit/Default@2x.png /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default@2x.png
+s382623950.826898
+e382623950.868689
+r1
+xCpResource
+xMUPGHUnit/Default@2x.png
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Copy /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default@2x.png96ced3ce60ceb641^9966dece60ceb641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default@2x.png000000000080d041^764"CpResource "MUPGHUnit/Default@2x.png" "/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Default@2x.png"    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/Default@2x.png" /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app36"AF1BB15F-5C54-4456-8679-F65017997251-
+
+CGenerateDSYMFile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app.dSYM /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit
+s382627600.181125
+e382627600.236017
+r1
+xGenerateDSYMFile
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app.dSYM
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app.dSYM9c6d2e106fceb641^166b3c106fceb641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app.dSYM/0000000000000000^872"GenerateDSYMFile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app.dSYM /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app.dSYM36"05430797-2260-4729-9123-224E53136A93-
+
+CLd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit normal i386
+s382627600.124058
+e382627600.174203
+r1
+xLd
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnitaed41f106fceb641^b3982c106fceb641^---0#0#0#--1569"Ld /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit normal i386    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP -filelist /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/Objects-normal/i386/MUPGHUnit.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -all_load -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -framework GHUnitIOS -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/MUPGHUnit36"D2B33919-A773-4062-8378-D1834E8077AA-
+
+CProcessInfoPlistFile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Info.plist MUPGHUnit/MUPGHUnit-Info.plist
+s382623945.227311
+e382623945.288014
+r1
+xProcessInfoPlistFile
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Info.plist
+xMUPGHUnit/MUPGHUnit-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process MUPGHUnit/MUPGHUnit-Info.plist3dd141c960ceb641^238750c960ceb641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPGHUnit-Info.plist0000000000000000^829"ProcessInfoPlistFile /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Info.plist MUPGHUnit/MUPGHUnit-Info.plist    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MUPGHUnit/MUPGHUnit-Info.plist -genpkginfo /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app/Info.plist36"442D7CC0-AB22-4F03-904A-260129C5339D-
+
+CProcessPCH /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch.pth MUPGHUnit/MUPGHUnit-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382623945.296506
+e382623947.460164
+r1
+xProcessPCH
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch.pth
+xMUPGHUnit/MUPGHUnit-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile MUPGHUnit/MUPGHUnit-Prefix.pchbec153c960ceb641^a3cd75cb60ceb641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPGHUnit-Prefix.pch0000000000000000^4017"ProcessPCH /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch.pth MUPGHUnit/MUPGHUnit-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-generated-files.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-own-target-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-all-target-headers.hmap -iquote /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/MUPGHUnit-project-headers.hmap -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources/i386 -I/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/MakesYouUP.build/Debug-iphonesimulator/MUPGHUnit.build/DerivedSources -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP --serialize-diagnostics /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch.dia -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPGHUnit-Prefix.pch -o /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch.pth -MMD -MT dependencies -MF /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Intermediates/PrecompiledHeaders/MUPGHUnit-Prefix-fhjbrrtbnirpnrchpxptuhtuyopy/MUPGHUnit-Prefix.pch.d36"2B920FFA-6174-4687-A24E-3C3CEB72AA5F-
+
+CProcessPCH /Users/mohammadabdurraafay/Library/Developer/Xcode/DerivedData/HelloUP!-dxrgzoxsjrgodvehpvhrjishgzwp/Index/PrecompiledHeaders/MUPGHUnit-Prefix-ctspmlcmjkhpwibcgxjtcgezjxla_ast/MUPGHUnit-Prefix.pch.pth MUPGHUnit/MUPGHUnit-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app
+s382627600.251980
+e382627600.257710
+r1
+xTouch
+x/Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.appac8e40106fceb641^e4f841106fceb641^---0#0#0#--526"Touch /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app    cd /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/Build/Products/Debug-iphonesimulator/MUPGHUnit.app36"59913AAD-7391-4CB6-AAF3-6C6F897AAFF9-
+

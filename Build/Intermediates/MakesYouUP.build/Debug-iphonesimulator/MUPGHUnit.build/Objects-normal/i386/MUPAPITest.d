@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MUPGHUnit/MUPAPITest.m \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHUnit.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestCase.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestMacros.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/NSException+GHTestFailureExceptions.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/NSValue+GHValueFormatter.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTest.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHAsyncTestCase.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestSuite.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestGroup.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestRunner.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTesting.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestOperation.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTest+JUnitXML.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHTestGroup+JUnitXML.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHUnitIOSAppDelegate.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/GHUnitIOS.framework/Headers/GHViewTestCase.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MakesYouUP.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPAPIClient.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/AFNetworking/AFHTTPClient.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSocialFeed.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPUser.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPDailySummary.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPEatSummary.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPMoveSummary.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleepSummary.h \
+  /Users/mohammadabdurraafay/Documents/Projects/jawbone-up-ios/MakesYouUP/MakesYouUP/MUPSleep.h
